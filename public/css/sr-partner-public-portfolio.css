@@ -1,0 +1,272 @@
+.sr-partner-portfolio {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.sr-partner-portfolio .sr-partner-portfolio-logo-phrase {
+    color: #0A88C7;
+}
+
+.sr-partner-portfolio .sr-partner-flex-row {
+    display: flex;
+    flex-direction: row;
+
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+.sr-partner-portfolio .sr-partner-p-l-15 {
+    padding-left: 15px;
+    padding-right: 0;
+}
+
+.sr-partner-text-center {
+    text-align: center;
+}
+
+.sr-partner-portfolio .sr-partner-flex-column-25 {
+    width:25%;
+}
+
+.sr-partner-portfolio .sr-partner-portfolio-mockup-card-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding: 150px 20px 0 20px;
+    transition: all .10s ease-in;
+    -moz-transition: all .10s ease-in;
+    -webkit-transition: all .10s ease-in;
+    display: none;
+}
+.sr-partner-mockup-item:hover .sr-partner-portfolio-mockup-card-overlay {
+    display: block;
+}
+
+.sr-partner-portfolio .sr-partner-flex-column-75 {
+    width:75%;
+}
+
+.sr-partner-portfolio .sr-partner-portfolio-categories .sr-partner-portfolio-categories-list ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border: 1px solid #ECECEC;
+    border-top: 0;
+}
+
+.sr-partner-portfolio .sr-partner-portfolio-categories .sr-partner-portfolio-categories-list ul li a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding: 10px 20px;
+    border-top: 1px solid #ECECEC;
+    outline: none;
+}
+
+.sr-partner-portfolio .sr-partner-portfolio-categories .sr-partner-portfolio-categories-list ul li a.active {
+    border-left: 5px solid #0B7EB0;
+    padding-left: 15px;
+}
+
+.sr-partner-portfolio .sr-partner-portfolio-mockups .sr-partner-mockup-item {
+    display:flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    height: 333px;
+    overflow: hidden;
+    background-color: rgb(238, 238, 238);
+    background-image: linear-gradient(90deg, rgb(238, 238, 238), rgb(245, 245, 245), rgb(238, 238, 238));
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    margin: 10px 15px;
+    position: relative;
+}
+
+
+.sr-partner-portfolio .sr-partner-portfolio-mockups .sr-partner-mockup-item .sr-partner-ribbon {
+    position: absolute;
+    height: 76px;
+    width: 76px;
+    display: inline-block;
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(https://s3.amazonaws.com/media.hub/assets/images/new-indicator.svg);
+    left: 0;
+}
+
+.sr-partner-portfolio-mockup-title {
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFF;
+    margin-bottom: 25px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    position: absolute;
+    left: 0;
+    bottom: 89px;
+    text-align: center;
+    width: 100%;
+}
+
+.sr-partner-portfolio-btn-wrapper {
+    bottom: 20px;
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
+    left: 0;
+    margin: 0 auto;
+}
+.sr-partner-portfolio-view-screenshot {
+    height: 32px;
+    padding: 6px 12px 5px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.sr-partner-portfolio-live-demo {
+    margin: 15px auto;
+    padding: 6px 17px 5px;
+}
+
+.sr-partner-portfolio-primary-button {
+    background-color: #0A89C7;
+    color: #FFF;
+    border: 1px solid #0A89C7;
+    font-size: 13px;
+    cursor: pointer;
+    text-decoration: none!important;
+}
+
+.sr-partner-portfolio-secondary-button {
+    color: #0A89C7;
+    background-color: #FFF;
+    border: 1px solid #0A89C7;
+    text-decoration: none!important;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+.sr-partner-modal-open {
+    overflow: hidden;
+}
+
+.sr-partner-modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.6);
+    bottom: 0;
+    left: 0;
+    z-index: 99999;
+    display: block;
+    overflow: auto;
+    outline: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.sr-partner-modal .sr-partner-modal-upper {
+    overflow: auto;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    padding: 20px 30px;
+    background-color: #FFF;
+    z-index: 10000;
+    box-sizing: border-box;
+    position: fixed;
+}
+
+
+.sr-partner-modal .sr-partner-modal-dialog {
+    max-width: 1000px;
+    margin: 130px auto;
+    width: 100%;
+}
+
+.sr-partner-portfolio-screenshot {
+    width: 100%;
+    position: initial;
+}
+
+
+.sr-partner-portfolio-block {
+    display: block;
+}
+
+.sr-partner-pull-right {
+    float: right;
+}
+
+.sr-partner-m-r-10 {
+    margin-right: 10px;
+}
+
+@keyframes sr-partner-skeleton-shine {
+    0% {
+        background-position: -200px 0;
+    }
+    100% {
+        background-position: calc(200px + 100%) 0;
+    }
+}
+
+.sr-partner-skeleton-loader {
+    background-color: rgb(238, 238, 238);
+    background-image: linear-gradient(90deg, rgb(238, 238, 238), rgb(245, 245, 245), rgb(238, 238, 238));
+    background-size: 200px 100%;
+    display: inline-block;
+    line-height: 1;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    animation: sr-partner-skeleton-shine 1.2s ease-in-out 0s infinite normal none running;
+}
+
+.sr-partner-portfolio-categories-list {
+    margin-top: 10px;
+}
+
+.sr-partner-portfolio-load-more-container {
+    text-align: center;
+    padding: 13px;
+}
+
+.sr-partner-portfolio-load-more-container .sr-partner-portfolio-load-more {
+    width: 50%;
+    max-width: 350px;
+    padding: 20px;
+    font-size: inherit;
+}
+
+.sr-partner-modal-dialog-content {
+    position: relative;
+}
+
+.sr-partner-portfolio-watermark-wrapper {
+    font-size: 38px;
+    position: absolute;
+    pointer-events: none;
+    width: 100%;
+    height: calc(100% - 10px);
+    overflow: hidden;
+    display: block;
+}
+
+.sr-partner-portfolio-watermark-wrapper .sr-partner-portfolio-watermark-box {
+    color:rgba(0,0,0,0.6)
+}
+
+.sr-partner-portfolio-watermark-wrapper .sr-partner-portfolio-watermark-box .sr-partner-portfolio-watermark {
+    overflow: hidden;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    display: inline-block;
+}

@@ -1,0 +1,534 @@
+ Copyright (C) 201& SEOReseller Partner Plugin
+# This file is distributed under the same license as the SEOReseller Partner Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form DB 2.10.19\n"
+"Report-Msgid-Bugs-To: "
+"database-extension\n"
+"POT-Creation-Date: 2017-08-04 11:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+
+msgid "Agency Settings"
+msgstr "Agency Settings"
+
+msgid "Open CRM"
+msgstr "Open CRM"
+
+msgid "Visit Store"
+msgstr "Visit Store"
+
+msgid "Audit Form Installed in All Pages."
+msgstr "Audit Form Installed in All Pages."
+
+msgid "Continue"
+msgstr "Continue"
+
+msgid "Customize"
+msgstr "Customize"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Plugin Features"
+msgstr "Plugin Features"
+
+msgid "Setup Audit Widget"
+msgstr "Setup Audit Widget"
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "Check for Updates"
+msgstr "Check for Updates"
+
+msgid "SEOReseller Agency Token"
+msgstr "SEOReseller Agency Token"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "This is the unique key that we use to connect your SEOReseller account to your white label Partner plugin."
+msgstr "This is the unique key that we use to connect your SEOReseller account to your white label Partner plugin."
+
+msgid "White Label Dashboard"
+msgstr "White Label Dashboard"
+
+msgid "Activate Dashboard Feature"
+msgstr "Activate Dashboard Feature"
+
+msgid "Page Title"
+msgstr "Page Title"
+
+msgid "Dashboard URL"
+msgstr "Dashboard URL"
+
+msgid "This is your new white label dashboard where your clients can log in to see their campaign. Learn more how to use it %1shere%2s."
+msgstr "This is your new white label dashboard where your clients can log in to see their campaign. Learn more how to use it %1shere%2s."
+
+msgid "here"
+msgstr "here"
+
+msgid "Web Design Portfolio"
+msgstr "Web Design Portfolio"
+
+msgid "Activate Portfolio Feature"
+msgstr "Activate Portfolio Feature"
+
+msgid "Page Title"
+msgstr "Page Title"
+
+msgid "Portfolio URL"
+msgstr "Portfolio URL"
+
+msgid "Add Portfolio Page Name first"
+msgstr "Add Portfolio Page Name first"
+
+msgid "Web Portfolio"
+msgstr "Web Portfolio"
+
+msgid "Add Dashboard Page Name first"
+msgstr "Add Dashboard Page Name first"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Audit Widget"
+msgstr "Audit Widget"
+
+msgid "BETA"
+msgstr "BETA"
+
+msgid "Activate Audit Widget Feature"
+msgstr "Activate Audit Widget Feature"
+
+msgid "The Web Audit feature creates forms that you can install on different pages of your site and provide free audits to your site visitors. You can embed it across your website and capture more leads while offering more value to your visitors. To start, you need to set it up in the Setup Audit Widget tab."
+msgstr "The Web Audit feature creates forms that you can install on different pages of your site and provide free audits to your site visitors. You can embed it across your website and capture more leads while offering more value to your visitors. To start, you need to set it up in the Setup Audit Widget tab."
+
+msgid "Setup Audit Form"
+msgstr "Setup Audit Form"
+
+msgid "Only Available for Notification Bar and Takeover Forms"
+msgstr "Only Available for Notification Bar and Takeover Forms"
+
+msgid "Install to All Pages"
+msgstr "Install to All Pages"
+
+msgid "Customize"
+msgstr "Customize"
+
+msgid "Turn Your Site Visitors Into Paying Clients"
+msgstr "Turn Your Site Visitors Into Paying Clients"
+
+msgid "Setup Audit Widget"
+msgstr "Setup Audit Widget"
+
+msgid "Lead Tracker"
+msgstr "Lead Tracker"
+
+msgid "Activate Lead Tracker Feature"
+msgstr "Activate Lead Tracker Feature"
+
+msgid "The Lead Tracker feature allows you to track all leads coming into your website through the different contact forms on the site. Note that you need to install %1sContact Form DB%2s for this to work. Download it %3shere%4s. Learn more about Lead Tracker %5shere%6s."
+msgstr "The Lead Tracker feature allows you to track all leads coming into your website through the different contact forms on the site. Note that you need to install %1sContact Form DB%2s for this to work. Download it %3shere%4s. Learn more about Lead Tracker %5shere%6s."
+
+msgid "Manage your Sources by Defining Each Contact Form"
+msgstr "Manage your Sources by Defining Each Contact Form"
+
+msgid "Setup Sources"
+msgstr "Setup Sources"
+
+msgid "Audit Form Builder"
+msgstr "Audit Form Builder"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Install an Audit Form to your site by creating different Audit Forms. You can select the type, customize colors and text, and then generate a shortcode you can use to install the audit form on a specific web page."
+msgstr "Install an Audit Form to your site by creating different Audit Forms. You can select the type, customize colors and text, and then generate a shortcode you can use to install the audit form on a specific web page."
+
+msgid "Form Name"
+msgstr "Form Name"
+
+msgid "Web Audit General Form"
+msgstr "Web Audit General Form"
+
+msgid "Name your form. We'll use this to identify the different forms you create."
+msgstr "Name your form. We'll use this to identify the different forms you create."
+
+msgid "Form Type"
+msgstr "Form Type"
+
+msgid "You can generate different types of form based on the look or the trigger. Customize it below then generate."
+msgstr "You can generate different types of form based on the look or the trigger. Customize it below then generate."
+
+msgid "Customize Audit Form"
+msgstr "Customize Audit Form"
+
+msgid "Customize your form based on your colors and the text you want for each form."
+msgstr "Customize your form based on your colors and the text you want for each form."
+
+msgid "Install Audit Forms To Your Article or Pages"
+msgstr "Install Audit Forms To Your Article or Pages"
+
+msgid "Update Shortcode"
+msgstr "Update Shortcode"
+
+msgid "Generate Shortcode"
+msgstr "Generate Shortcode"
+
+msgid "Active Audit Forms"
+msgstr "Active Audit Forms"
+
+msgid "These are the different forms you have already created."
+msgstr "These are the different forms you have already created."
+
+msgid "Installed to All Pages"
+msgstr "Installed to All Pages"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "edit"
+msgstr "edit"
+
+msgid "delete"
+msgstr "delete"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "On Page Button"
+msgstr "On Page Button"
+
+msgid "Your Website"
+msgstr "Your Website"
+
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+msgid "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+msgid "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+msgid "Notification Banner"
+msgstr "Notification Banner"
+
+msgid "What's your SEO Score?"
+msgstr "What's your SEO Score?"
+
+msgid "On Action click"
+msgstr "On Action click"
+
+msgid "Analyze your site's SEO performance"
+msgstr "Analyze your site's SEO performance"
+
+msgid "Enter your email and website to get a free SEO analysis!"
+msgstr "Enter your email and website to get a free SEO analysis!"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Run Audit"
+msgstr "Run Audit"
+
+msgid "Page Button Text"
+msgstr "Page Button Text"
+
+msgid "Page Button BG Color"
+msgstr "Page Button BG Color"
+
+msgid "Page Button Text Color"
+msgstr "Page Button Text Color"
+
+msgid "Banner Label Text"
+msgstr "Banner Label Text"
+
+msgid "Banner Button Text"
+msgstr "Banner Button Text"
+
+msgid "Banner Background Color"
+msgstr "Banner Background Color"
+
+msgid "Banner Text Color"
+msgstr "Banner Text Color"
+
+msgid "Banner Button BG Color"
+msgstr "Banner Button BG Color"
+
+msgid "Banner Button Text Color"
+msgstr "Banner Button Text Color"
+
+msgid "Delay"
+msgstr "Delay"
+
+msgid "Time before notification pops up again after closing, in seconds"
+msgstr "Time before notification pops up again after closing, in seconds"
+
+msgid "means no close button"
+msgstr "means no close button"
+
+msgid "Heading"
+msgstr "Heading"
+
+msgid "Sub Heading"
+msgstr "Sub Heading"
+
+msgid "Form Background Color"
+msgstr "Form Background Color"
+
+msgid "Form Text Color"
+msgstr "Form Text Color"
+
+msgid "Button Background Color"
+msgstr "Button Background Color"
+
+msgid "Button Text Color"
+msgstr "Button Text Color"
+
+msgid "Page Background Color"
+msgstr "Page Background Color"
+
+msgid "Page Background Opacity"
+msgstr "Page Background Opacity"
+
+msgid "Takeover Type"
+msgstr "Takeover Type"
+
+msgid "In milliseconds"
+msgstr "In milliseconds"
+
+msgid "Scroll"
+msgstr "Scroll"
+
+msgid "Scroll Percentage before pops up starts to show"
+msgstr "Scroll Percentage before pops up starts to show"
+
+msgid "Get Your Free SEO Audit!"
+msgstr "Get Your Free SEO Audit!"
+
+msgid ""Does your site have good SEO?""
+msgstr ""Does your site have good SEO?""
+
+msgid "Are you sure wou want to delete [code]?"
+msgstr "Are you sure wou want to delete [code]?"
+
+msgid "Successfully Deleted!"
+msgstr "Successfully Deleted!"
+
+msgid "Large"
+msgstr "Large"
+
+msgid "Small"
+msgstr "Small"
+
+msgid "Slim"
+msgstr "Slim"
+
+msgid "Call to Action"
+msgstr "Call to Action"
+
+msgid "Notification Bar"
+msgstr "Notification Bar"
+
+msgid "Page Takeover"
+msgstr "Page Takeover"
+
+msgid "Select the type of takeover"
+msgstr "Select the type of takeover"
+
+msgid "Time Delay"
+msgstr "Time Delay"
+
+msgid "On Scroll"
+msgstr "On Scroll"
+
+msgid "You do not have a valid token."
+msgstr "You do not have a valid token."
+
+msgid " is required!"
+msgstr " is required!"
+
+msgid "Added Successfully!"
+msgstr "Added Successfully!"
+
+msgid "Updated Successfully!"
+msgstr "Updated Successfully!"
+
+msgid "Something wrong!"
+msgstr "Something wrong!"
+
+msgid "Large Form"
+msgstr "Large Form"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Heading Text"
+msgstr "Heading Text"
+
+msgid "Sub Heading Text"
+msgstr "Sub Heading Text"
+
+msgid "Form Button Background Color"
+msgstr "Form Button Background Color"
+
+msgid "Form Button Text Color"
+msgstr "Form Button Text Color"
+
+msgid "Small Form"
+msgstr "Small Form"
+
+msgid "Slim Form"
+msgstr "Slim Form"
+
+msgid "Notification Form"
+msgstr "Notification Form"
+
+msgid "Banner Label"
+msgstr "Banner Label"
+
+msgid "Banner Button Background Color"
+msgstr "Banner Button Background Color"
+
+msgid "Banner Button Color"
+msgstr "Banner Button Color"
+
+msgid "Takeover Show Delay"
+msgstr "Takeover Show Delay"
+
+msgid "Takeover On Scroll Percentage"
+msgstr "Takeover On Scroll Percentage"
+
+msgid "On Page Button Label"
+msgstr "On Page Button Label"
+
+msgid "On Page Button Background Color"
+msgstr "On Page Button Background Color"
+
+msgid "On Page Button Text Color"
+msgstr "On Page Button Text Color"
+
+msgid "Successfully saved!"
+msgstr "Successfully saved!"
+
+msgid " Page Title is required."
+msgstr " Page Title is required."
+
+msgid "Unknown error occured."
+msgstr "Unknown error occured."
+
+msgid "An error has occured. Please contact the administrator."
+msgstr "An error has occured. Please contact the administrator."
+
+msgid "Invalid email."
+msgstr "Invalid email."
+
+msgid "Invalid POST parameters."
+msgstr "Invalid POST parameters."
+
+msgid "Error!"
+msgstr "Error!"
+
+msgid "SEOReseller Partner Plugin has already been installed on another website. You can only install this plugin on one website."
+msgstr "SEOReseller Partner Plugin already been installed on another website. You can only install this plugin on one website."
+
+msgid "Error: plugin "SEOReseller Partner Plugin" requires a newer version of PHP to be running."
+msgstr "Error: plugin "SEOReseller Partner Plugin" requires a newer version of PHP to be running."
+
+msgid "Minimal version of PHP required: "
+msgstr "Minimal version of PHP required: "
+
+msgid "Your server\'s PHP version: "
+msgstr "Your server\'s PHP version: "
+
+msgid "Activate Plugin"
+msgstr "Activate Plugin"
+
+msgid "Please enter SEOReseller Agency Token"
+msgstr "Please enter SEOReseller Agency Token"
+
+msgid "Please enter a your activation token."
+msgstr "Please enter a your activation token."
+
+msgid "Your plugin has been activated."
+msgstr "Your plugin has been activated."
+
+msgid "This token has already been used on another website."
+msgstr "This token has already been used on another website."
+
+msgid "Running your web audit."
+msgstr "Running your web audit."
+
+msgid "Please wait..."
+msgstr "Please wait..."
+
+msgid "Success!"
+msgstr "Success!"
+
+msgid "Oh snap!"
+msgstr "Oh snap!"
+
+msgid "There was a problem processing your request. Please try again."
+msgstr "There was a problem processing your request. Please try again."
+
+msgid "Website URL is required."
+msgstr "Website URL is required."
+
+msgid "Website URL is invalid."
+msgstr "Website URL is invalid."
+
+msgid "Email is required."
+msgstr "Email is required."
+
+msgid "Email is invalid."
+msgstr "Email is invalid."
+
+msgid "Error: The old version of SEOReseller Partner Plugin is still in your plugin directory. Please remove it first and try again."
+msgstr "Error: The old version of SEOReseller Partner Plugin is still in your plugin directory. Please remove it first and try again."
+
+msgid "We found an existing page called %s in your domain. We have created your %s at %s instead."
+msgstr "We found an existing page called %s in your domain. We have created your %s at %s instead."
+
+msgid "%s deactivated successfully!"
+msgstr "%s deactivated successfully!"
+
+msgid "%s activated successfully!"
+msgstr "%s activated successfully!"
+
+msgid "%s Page Title updated successfully!"
+msgstr "%s Page Title updated successfully!"
+
+msgid "No account? Create one for free"
+msgstr "No account? Create one for free"
+
+msgid "Your SEOReseller token is not valid."
+msgstr "Your SEOReseller token is not valid."
+
+msgid "We have encountered an issue while activating SEOReseller Partner Plugin. Please contact SEOReseller for support."
+msgstr "We have encountered an issue while activating SEOReseller Partner Plugin. Please contact SEOReseller for support."
+
+msgid "You can find your token %shere%s."
+msgstr "You can find your token %shere%s."
